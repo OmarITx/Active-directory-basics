@@ -1,1 +1,1 @@
-# osticket-prereqs
+# Active-directory-baiscs
