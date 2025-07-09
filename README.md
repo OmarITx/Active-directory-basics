@@ -39,11 +39,13 @@ This lab will later support:
 1. Go to the Azure Portal → Search “Resource Groups”
 2. Click **+ Create**
 3. Enter a name (e.g., `AD-Lab-RG`)
-4. Choose a region (e.g., East US)
-5. Click **Review + Create → Create**
+4. Choose a region (you dont have to choose east us 2, but make sure to remember which region you chose!)
+5. Your resource group should look something like this
 
 📸 Screenshot:  
 ![Image Alt](https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png)
+
+6. Click **Review + Create → Create**
 
 ---
 
