@@ -7,21 +7,6 @@ Perfect for testing, learning, and scripting with **PowerShell**, **Group Policy
 
 ---
 
-## 📁 Table of Contents
-
-1. [Overview](#overview)
-2. [Prerequisites](#prerequisites)
-3. [Step-by-Step Setup](#step-by-step-setup)
-    - [Create Resource Group](#1-create-resource-group)
-    - [Create Virtual Network](#2-create-virtual-network)
-    - [Create Domain Controller (DC-1)](#3-create-domain-controller-dc-1)
-    - [Create Client Machine (C-1)](#4-create-client-machine-c-1)
-4. [Next Steps](#next-steps)
-5. [Screenshots](#screenshots)
-6. [Credits](#credits)
-
----
-
 ## 🧠 Overview
 
 We will create a **simulated corporate network** in Azure using:
@@ -58,7 +43,7 @@ This lab will later support:
 5. Click **Review + Create → Create**
 
 📸 Screenshot:  
-![Resource Group](images/01_resource_group.png)
+![Alt text] (https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png)
 
 ---
 
