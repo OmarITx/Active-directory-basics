@@ -59,7 +59,7 @@ This lab will later support:
 6. Review and Create
 
 📸 Screenshot:  
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20142746.png?raw=true)
+![Image Alt]((https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true))
 
 ---
 
