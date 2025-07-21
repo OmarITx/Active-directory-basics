@@ -42,7 +42,7 @@ This lab will later support:
 4. Choose a region (you dont have to choose east us 2, but make sure to remember which region you chose!)
 5. Your resource group should look something like this
 
-📸 Screenshot:  
+📸:  
 ![Image Alt](https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png)
 
 6. Click **Review + Create → Create**
@@ -58,7 +58,7 @@ This lab will later support:
 5. Add a subnet: `10.0.1.0/24`
 6. Review and Create
 
-📸 Screenshot:  
+📸:  
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true)
 
 ---
@@ -74,7 +74,7 @@ This lab will later support:
 7. Enable RDP
 8. Create
 
-📸 Screenshot:  
+📸:  
 ![DC-1 Creation](images/03_dc1_create.png)
 
 ---
@@ -87,7 +87,7 @@ This lab will later support:
 4. Enable RDP
 5. Create
 
-📸 Screenshot:  
+📸:  
 ![Client Creation](images/04_client_create.png)
 
 ---
