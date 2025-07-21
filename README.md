@@ -64,14 +64,19 @@ This lab will later support:
 
 ### 🔹 3. Create Domain Controller (DC-1)
 
-1. Go to **Virtual Machines** → Click **+ Create**
-2. Resource Group: `AD-Lab-RG`
-3. Name: `DC-1`
-4. Image: Windows Server 2019/2022
-5. Size: At least 2 vCPUs, 4 GB RAM
-6. Network: Attach to `AD-VNet` > `default` subnet
-7. Enable RDP
-8. Create
+1. back to the Azure search bar again and type "Virtual Machines"
+2. Click "create" at the top left
+3. Choose the resource group "Active-Directory-Lab", which we created earlier
+4. Name it "dc-1"
+5. Make sure you choose the same Region as your virtual network (East US 2 in this case)
+4. for Image, choose Windows Server  2022 Datacenter
+5. Size has to be At least 2 vCPUs, 4 GB RAM so the virtual machine runs decently
+6. Username: labuser
+   Password: Cyberlab123!
+You can type whatever you like, but make sure to save them in "Notepad" on windows or "TextEdit" on mac for easier access.
+7. Check the Licensing box and the consent box
+8. press next until you land on the "Networking" section, then choose "Active-Directory-Vnet" as your virtual network.
+9. Press review and create.
 
 📸:  
 ![DC-1 Creation](images/03_dc1_create.png)
