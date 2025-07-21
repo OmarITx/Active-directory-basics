@@ -59,7 +59,8 @@ This lab will later support:
 6. Review and Create
 
 📸 Screenshot:  
-![Virtual Network](images/02_virtual_network.png)
+![Image Alt](<img width="2389" height="1347" alt="image" src="https://github.com/user-attachments/assets/147f2c2d-2e4f-47ca-9894-f3be0abf500a" />
+)
 
 ---
 
