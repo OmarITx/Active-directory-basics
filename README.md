@@ -36,8 +36,8 @@ This lab will later support:
 
 ### 🔹 1. Create Resource Group
 
-1. Go to the Azure Portal → Search “Resource Groups”
-2. Click **+ Create**
+1. Go to the Azure search bar → Search “Resource Groups”
+2. Click Create
 3. Enter a name. ex, Active-Directory-Lab ( needs to have "-" between each word)
 4. Choose a region (you dont have to choose east us 2, but make sure to remember which region you chose!)
 5. Your resource group should look something like this
@@ -51,8 +51,8 @@ This lab will later support:
 
 ### 🔹 2. Create Virtual Network
 
-1. Go to **Virtual Networks** → Click **+ Create**
-2. Resource Group: `AD-Lab-RG`
+1. Back to the azure search bar → Search "virtual Network" → Click Create
+2. Choose the resource group "Active-Directoy-Lab" that we created earlier
 3. Name: `AD-VNet`
 4. Address space: `10.0.0.0/16`
 5. Add a subnet: `10.0.1.0/24`
