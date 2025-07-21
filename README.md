@@ -54,12 +54,12 @@ This lab will later support:
 1. Back to the azure search bar → Search "virtual Network" → Click Create
 2. Choose the resource group "Active-Directoy-Lab" that we created earlier
 3. Name it "Active-Directoy-Vnetwork"
-4. click "review and Create" at the bottom left, then press "create"
-5. Your Virtual Network should look like this
+4. Your Virtual Network should look like this
 
 📸:  
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true)
 
+5. click "review and Create" at the bottom left, then press "create"
 ---
 
 ### 🔹 3. Create Domain Controller (DC-1)
