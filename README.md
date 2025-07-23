@@ -93,6 +93,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 
 📸:
+
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true)
 
 
@@ -100,6 +101,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
     
 📸:
+
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true)
 
 
@@ -107,8 +109,8 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
     
 11. Press review and create.
 
-
 📸:
+
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true)
 
 
