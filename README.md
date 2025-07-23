@@ -43,7 +43,7 @@ This lab will later support:
 5. Your resource group should look something like this
 
 📸:  
-![Image Alt](https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png=250x250)
+![Image Alt](https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png)
 
 6. Click **Review + Create → Create**
 
