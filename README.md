@@ -69,22 +69,45 @@ This lab will later support:
 3. Choose the resource group "Active-Directory-Lab", which we created earlier
 4. Name it "dc-1"
 5. Make sure you choose the same Region as your virtual network (East US 2 in this case)
+
+
 📸:
+
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%201.png?raw=true)
+
+
 6. For Image, choose Windows Server  2022 Datacenter
+
 7. Size has to be at least 2 vCPUs, 4 GB RAM, so the virtual machine runs decently
+
+
 📸:
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true)
+
+
 8. Username: labuser
+
    Password: Cyberlab123!
+   
 You can type whatever you like, but make sure to save it in "Notepad" on Windows or "TextEdit" on macOS for easier access.
+
+
 📸:
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true)
+
+
 9. Check the Licensing box and the consent box
+
+    
 📸:
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true)
+
+
 10. Press Next until you land on the "Networking" section, then choose "Active-Directory-Vnet" as your virtual network.
+    
 11. Press review and create.
+
+
 📸:
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true)
 
