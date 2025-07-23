@@ -73,7 +73,7 @@ This lab will later support:
 
 📸:
 
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%201.png?raw=true)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%201.png?raw=true=250x250)
 
 
 6. For Image, choose Windows Server  2022 Datacenter
@@ -94,7 +94,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 📸:
 
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true=250x250)
 
 
 9. Check the Licensing box and the consent box
@@ -102,7 +102,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
     
 📸:
 
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true=250x250)
 
 
 10. Press Next until you land on the "Networking" section, then choose "Active-Directory-Vnet" as your virtual network.
@@ -111,7 +111,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 📸:
 
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true=250x250)
 
 
 ---
