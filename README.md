@@ -43,7 +43,7 @@ This lab will later support:
 5. Your resource group should look something like this
 
 📸:  
-![Image Alt](https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png)
+![Image Alt](https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png=250x250)
 
 6. Click **Review + Create → Create**
 
@@ -57,7 +57,7 @@ This lab will later support:
 4. Your Virtual Network should look like this
 
 📸:  
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true=250x250)
 
 5. Click "Review and Create" at the bottom left, then press "Create"
 ---
