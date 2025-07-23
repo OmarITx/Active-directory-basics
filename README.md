@@ -51,35 +51,43 @@ This lab will later support:
 
 ### 🔹 2. Create Virtual Network
 
-1. Back to the azure search bar → Search "virtual Network" → Click Create
-2. Choose the resource group "Active-Directoy-Lab" that we created earlier
-3. Name it "Active-Directoy-Vnetwork"
+1. Back to the Azure search bar → Search "Virtual Network" → Click Create
+2. Choose the resource group "Active-Directory-Lab" that we created earlier
+3. Name it "Active-Directory-Vnet"
 4. Your Virtual Network should look like this
 
 📸:  
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true)
 
-5. click "review and Create" at the bottom left, then press "create"
+5. Click "Review and Create" at the bottom left, then press "Create"
 ---
 
 ### 🔹 3. Create Domain Controller (DC-1)
 
-1. back to the Azure search bar again and type "Virtual Machines"
+1. Back to the Azure search bar again and type "Virtual Machines"
 2. Click "create" at the top left
 3. Choose the resource group "Active-Directory-Lab", which we created earlier
 4. Name it "dc-1"
 5. Make sure you choose the same Region as your virtual network (East US 2 in this case)
-4. for Image, choose Windows Server  2022 Datacenter
-5. Size has to be At least 2 vCPUs, 4 GB RAM so the virtual machine runs decently
-6. Username: labuser
+📸:
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%201.png?raw=true)
+6. For Image, choose Windows Server  2022 Datacenter
+7. Size has to be at least 2 vCPUs, 4 GB RAM, so the virtual machine runs decently
+📸:
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true)
+8. Username: labuser
    Password: Cyberlab123!
-You can type whatever you like, but make sure to save them in "Notepad" on windows or "TextEdit" on mac for easier access.
-7. Check the Licensing box and the consent box
-8. press next until you land on the "Networking" section, then choose "Active-Directory-Vnet" as your virtual network.
-9. Press review and create.
+You can type whatever you like, but make sure to save it in "Notepad" on Windows or "TextEdit" on macOS for easier access.
+📸:
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true)
+9. Check the Licensing box and the consent box
+📸:
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true)
+10. Press Next until you land on the "Networking" section, then choose "Active-Directory-Vnet" as your virtual network.
+11. Press review and create.
+📸:
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true)
 
-📸:  
-![DC-1 Creation](images/03_dc1_create.png)
 
 ---
 
