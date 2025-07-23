@@ -80,8 +80,8 @@ This lab will later support:
 
 7. Size has to be at least 2 vCPUs, 4 GB RAM, so the virtual machine runs decently
 
-
 📸:
+
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true)
 
 
