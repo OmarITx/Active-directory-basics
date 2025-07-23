@@ -82,7 +82,7 @@ This lab will later support:
 
 📸:
 
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true =250x250)
 
 
 8. Username: labuser
