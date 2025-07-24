@@ -118,10 +118,14 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 ### 🔹 4. Create Client Machine (C-1)
 
-1. Repeat VM creation
-2. Name: `C-1`
-3. Use same network and subnet (`AD-VNet`)
-4. Enable RDP
+1. Go back to virtual machines (using the Azure search bar at the top)
+2. Click "create" at the top left
+3. Follow the same steps as when creating the domain controller, but make sure to change "image" to "Windows 10 Pro" and name the virtual machine "client-1"
+4. If followed correctly, your screen should look something like this
+
+📸: 
+
+
 5. Create
 
 📸:  
