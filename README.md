@@ -121,15 +121,21 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 1. Go back to virtual machines (using the Azure search bar at the top)
 2. Click "create" at the top left
 3. Follow the same steps as when creating the domain controller, but make sure to change "image" to "Windows 10 Pro" and name the virtual machine "client-1"
-4. If followed correctly, your screen should look something like this
+4. Use the same username and password as dc-1 ( or any username and password you want, as long as you have them saved up somewhere, like Notepad)
+4. Here are some screenshots with the important details highlighted
 
 📸: 
 
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%203.png?raw=true=250x250)
 
-5. Create
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%204.png?raw=true=250x250)
 
-📸:  
-![Client Creation](images/04_client_create.png)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-24%20144142.png?raw=true=250x250)
+
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%205.png?raw=true=250x250)
+
+5. Click "Review and Create"
+
 
 ---
 
