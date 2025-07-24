@@ -126,7 +126,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 📸: 
 
-![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%203.png?raw=true=250x250)
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%203.png?raw=true =250x250)
 
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%204.png?raw=true=250x250)
 
