@@ -151,11 +151,4 @@ After creating the VMs:
 
 📘 Follow-up guide: [PowerShell Bulk User Script](link-to-your-next-page)
 
----
 
-## 🖼️ Screenshots
-
-Add all your actual screenshots into an `/images/` folder in your repo.
-
-| Step | Description | Image |
-|------|-------------|----
