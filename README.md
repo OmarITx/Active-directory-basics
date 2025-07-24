@@ -39,7 +39,7 @@ This lab will later support:
 1. Go to the Azure search bar → Search “Resource Groups”
 2. Click Create
 3. Enter a name. ex, Active-Directory-Lab ( needs to have "-" between each word)
-4. Choose a region (you dont have to choose east us 2, but make sure to remember which region you chose!)
+4. Choose a region (you don't have to choose East US 2, but make sure to remember which region you chose!)
 5. Your resource group should look something like this
 
 📸:  
