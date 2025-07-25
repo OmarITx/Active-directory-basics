@@ -162,7 +162,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%207.png?raw=true=250x250)
    
-5. Click on "ipconfig1", then under "Private IP address settings" choose "static"
+5. Click on "ipconfig1", then under "Private IP address settings" choose "static", then press save
 
     
 📸: 
