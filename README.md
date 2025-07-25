@@ -149,6 +149,4 @@ After creating the VMs:
 - Connect **C-1** and join it to the domain
 - Start scripting with PowerShell and managing with GPO
 
-📘 Follow-up guide: [PowerShell Bulk User Script](link-to-your-next-page)
-
 
