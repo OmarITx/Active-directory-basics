@@ -142,22 +142,40 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 ### 🔹 5. Making sure IP Adress for dc-1 stays the same
 
 1. go back to the virtual machine menu (using the search bar)
+
+
 📸:  
 
+
 2. Press on "dc-1", then click on "Networking"
+
+   
 📸: 
+
    
 3. A new menu should pop up with "Netowrk settings" in it.
+
+
 📸: 
+
    
-4. click on it, then press on the "Network interface" in the middle of the screeen as shown in the screenshots
+4. click on it, then press on the "Network interface" in the middle of the menu
+
+
 📸: 
+
    
 5. Click on "ipconfig1", then under "Private IP adress settings" choose "static"
+
+    
 📸: 
     
 6. This ensures that dc-1 maintaints the same Ip adress through the lab, which can cause issues if not planned for.
+
+    
 📸: 
+
+
 1. Go back to virtual
 ## 🚀 Next Steps
 
