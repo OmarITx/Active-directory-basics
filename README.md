@@ -139,7 +139,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 ---
 
-### 🔹 5. Making sure IP Adress for dc-1 stays the same
+### 🔹 5. Making sure the IP Address for dc-1 stays the same
 
 1. Go back to the virtual machine menu (using the search bar)
 
@@ -174,8 +174,39 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
     
 
+6. Finishing touch.
 
-1. Go back to virtual
+
+1. Back to virtual machines, get dc-1's public IP address.
+   
+
+
+📸: 
+
+
+
+2. Search for "Remote Desktop Connection" on your computer using the search bar if using Windows. Or download "Microsoft Remote Desktop" if running a MacBook
+
+
+
+📸: 
+
+   
+3. Copy and paste the IP address into the "computer" section, then press continue.
+
+
+📸: 
+
+
+4. Type in the user name and password we made earlier, then press continue.
+
+
+5. Now you are connected to the domain controller!
+
+
+
+
+   
 ## 🚀 Next Steps
 
 After creating the VMs:
