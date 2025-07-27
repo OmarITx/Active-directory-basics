@@ -170,7 +170,7 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 ![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%208.png?raw=true=250x250)
 
-6. This ensures that dc-1 maintains the same IP address through the lab, which can cause issues if not planned for.
+6. This ensures that dc-1 maintains the same IP address through the lab, no matter how  many times it's restarted.
 
     
 
