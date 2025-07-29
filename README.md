@@ -24,9 +24,10 @@ This lab will later support:
 
 ## ⚙️ Prerequisites
 
-- Azure Subscription (Free or Pay-As-You-Go)
-- Basic knowledge of virtual networks, VMs, and PowerShell
-- Azure Portal access: https://portal.azure.com/
+-  Creating an account in Microsoft Azure (Use the link below and create an account)
+-  Azure Subscription (Free or Pay-As-You-Go)
+-  Will need to use a credit card to access the $200 free credit from Azure ( you won't be charged)
+-  Azure Portal access: https://portal.azure.com/
 
 ---
 
