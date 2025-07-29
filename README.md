@@ -15,7 +15,7 @@ We will create a **simulated corporate network** in Azure using:
 - ✅ One Client Machine (C-1)
 - ✅ Custom Virtual Network & Resource Group
 
-This lab will later support:
+The next section of the lab will support:
 - Bulk user creation with PowerShell
 - Group Policy Object (GPO) management
 - Domain joining and testing
