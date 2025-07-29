@@ -175,7 +175,9 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
     
 
-6. Finishing touch.
+
+
+### 🔹6. Finishing touch.
 
 
 1. Back to virtual machines, get dc-1's public IP address.
@@ -185,6 +187,8 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 📸: 
 
 
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2011.png?raw=true)
+
 
 2. Search for "Remote Desktop Connection" on your computer using the search bar if using Windows. Or download "Microsoft Remote Desktop" if running a MacBook
 
@@ -192,11 +196,18 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 📸: 
 
-   
+
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2012.png?raw=true)
+
+
+
 3. Copy and paste the IP address into the "computer" section, then press continue.
 
 
 📸: 
+
+
+![Image Alt](https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2010.png?raw=true)
 
 
 4. Type in the user name and password we made earlier, then press continue.
