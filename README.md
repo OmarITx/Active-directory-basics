@@ -218,15 +218,5 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 
 
-   
-## 🚀 Next Steps
-
-After creating the VMs:
-
-- Connect to **DC-1** via RDP
-- Install **Active Directory Domain Services**
-- Promote it to a domain controller
-- Connect **C-1** and join it to the domain
-- Start scripting with PowerShell and managing with GPO
 
 
