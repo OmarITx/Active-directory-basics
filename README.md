@@ -220,4 +220,4 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 
 https://github.com/OmarITx/Active-directory-baiscs
-[<img src="[https://github.com/OmarITx/Active-directory-baiscs]/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />]
+<img src="https://github.com/OmarITx/Active-directory-baiscs" width="200" height="400" />
