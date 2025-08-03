@@ -1,6 +1,5 @@
 # Active-directory-basics
 
-<img src="https://github.com/OmarITx/Active-directory-baiscs" width="200" height="400" />
 
 # ☁️ Active Directory Lab on Azure
 
