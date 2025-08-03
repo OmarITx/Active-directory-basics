@@ -57,7 +57,7 @@ The next section of the lab will support:
 5. Your resource group should look something like this
 
 **📸:**  
-<img src="https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png" width="500" />
+<img src="https://raw.githubusercontent.com/OmarITx/Active-directory-basics/140f8141a65a5c7efbdddf9ea1f9f334c2e92cd6/Screenshot%202025-06-29%20142439.png" width="600" />
 
 6. Click **Review + Create → Create**
 
@@ -71,7 +71,7 @@ The next section of the lab will support:
 4. Your Virtual Network should look like this
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-06-29%20171239.png?raw=true" width="600" />
 
 5. Click "Review and Create" at the bottom left, then press "Create"
 
@@ -86,14 +86,14 @@ The next section of the lab will support:
 5. Make sure you choose the same Region as your virtual network (East US 2 in this case)
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%201.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%201.png?raw=true" width="600" />
 
 6. For Image, choose Windows Server 2022 Datacenter
 
 7. Size has to be at least 2 vCPUs, 4 GB RAM, so the virtual machine runs decently
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-23%20115229.png?raw=true" width="600" />
 
 8. Username: labuser  
    Password: Cyberlab123!
@@ -101,19 +101,19 @@ The next section of the lab will support:
    You can type whatever you like, but make sure to save it in "Notepad" on Windows or "TextEdit" on macOS for easier access.
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232311.png?raw=true" width="600" />
 
 9. Check the Licensing box and the consent box
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-22%20232338.png?raw=true" width="600" />
 
 10. Press Next until you land on the "Networking" section, then choose "Active-Directory-Vnet" as your virtual network.
 
 11. Press "Review and Create"
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202.png?raw=true" width="600" />
 
 ---
 
@@ -125,10 +125,10 @@ The next section of the lab will support:
 4. Use the same username and password as dc-1 (or any username and password you want, as long as you have them saved somewhere, like Notepad)
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%203.png?raw=true" width="500" />
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%204.png?raw=true" width="500" />
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-24%20144142.png?raw=true" width="500" />
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%205.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%203.png?raw=true" width="600" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%204.png?raw=true" width="600" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%202025-07-24%20144142.png?raw=true" width="600" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%205.png?raw=true" width="600" />
 
 5. Click "Review and Create"
 
@@ -140,18 +140,18 @@ The next section of the lab will support:
 2. Press on "dc-1", then click on "Networking"
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/screenshot%206.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/screenshot%206.png?raw=true" width="600" />
 
 3. A new menu should pop up with "Network settings" in it
 4. Click on it, then press on the "Network interface" in the middle of the menu
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%207.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%207.png?raw=true" width="600" />
 
 5. Click on "ipconfig1", then under "Private IP address settings" choose "Static", then press save
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%208.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%208.png?raw=true" width="600" />
 
 6. This ensures that dc-1 maintains the same IP address through the lab, no matter how many times it's restarted.
 
@@ -162,25 +162,21 @@ The next section of the lab will support:
 1. Back to Virtual Machines, get dc-1's public IP address
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2011.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2011.png?raw=true" width="600" />
 
 2. Search for "Remote Desktop Connection" on your computer using the search bar if using Windows. Or download "Microsoft Remote Desktop" if running a MacBook
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2012.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2012.png?raw=true" width="600" />
 
 3. Copy and paste the IP address into the "Computer" section, then press continue
 
 **📸:**  
-<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2010.png?raw=true" width="500" />
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%2010.png?raw=true" width="600" />
 
 4. Type in the username and password we made earlier, then press continue
 
 5. Now you are connected to the domain controller!
 
 ---
-
-
-
-
 
