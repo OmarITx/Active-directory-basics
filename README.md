@@ -1,4 +1,6 @@
 # Active-directory-basics
+<h4>VM Configuration Screenshot:</h4>
+<img src="https://github.com/OmarITx/Active-directory-basics/blob/main/Screenshot%203.png?raw=true" width="500" />
 
 
 # ☁️ Active Directory Lab on Azure
