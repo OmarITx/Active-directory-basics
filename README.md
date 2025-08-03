@@ -1,5 +1,7 @@
 # Active-directory-basics
 
+<img src="https://github.com/OmarITx/Active-directory-baiscs" width="200" height="400" />
+
 # ☁️ Active Directory Lab on Azure
 
 This project guides you through setting up a **virtual environment for Active Directory** using **Microsoft Azure**.  
@@ -217,7 +219,3 @@ You can type whatever you like, but make sure to save it in "Notepad" on Windows
 
 
 
-
-
-https://github.com/OmarITx/Active-directory-baiscs
-<img src="https://github.com/OmarITx/Active-directory-baiscs" width="200" height="400" />
