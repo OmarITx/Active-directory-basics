@@ -1,4 +1,4 @@
-# Active-directory-basics
+# Active-directory-basic-setup
 
 # ☁️ Active Directory Lab on Azure
 
