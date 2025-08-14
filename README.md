@@ -31,8 +31,7 @@ The next section of the lab will support:
    - [3. Create Domain Controller (DC-1)](#-3-create-domain-controller-dc-1)
    - [4. Create Client Machine (C-1)](#-4-create-client-machine-c-1)
    - [5. Set Static IP for DC-1](#-5-making-sure-the-ip-address-for-dc-1-stays-the-same)
-   - [6. Connect via RDP](#6-finishing-touch)
-
+   
 ---
 
 ## ⚙️ Prerequisites
