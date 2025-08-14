@@ -180,3 +180,46 @@ The next section of the lab will support:
 
 ---
 
+
+## 🎯 Closing & Next Steps
+
+Congratulations! 🎉  
+You’ve successfully set up the **foundation** of your Active Directory lab in Microsoft Azure, complete with:
+
+- ✅ A dedicated Resource Group & Virtual Network  
+- ✅ A Domain Controller (DC-1) ready for configuration  
+- ✅ A Client Machine (C-1) ready to join the domain  
+- ✅ Static IP configuration to keep things consistent  
+
+This is the **base environment** we’ll build upon in the next sections of the series.  
+
+---
+
+### 📌 In the next part of this lab, we will:
+
+- Install and configure **Active Directory Domain Services (AD DS)** on DC-1  
+- Promote DC-1 to a Domain Controller (installing roles, etc..)
+- Join C-1 to the new domain  
+- Create **bulk user accounts** with PowerShell ISE  
+- Set up and test **Group Policy Objects (GPOs)**  
+
+---
+
+💡 **Tip:**  
+You can keep this environment running for the next part, but remember that Azure charges for running VMs. If you’re taking a break, **stop** both VMs in the Azure portal to avoid consuming credits.
+
+
+
+---
+
+<div align="center">
+  <a href="PART-2-LINK-HERE" style="text-decoration:none;">
+    <button style="background-color:#0078D4; color:white; padding:12px 20px; font-size:16px; border:none; border-radius:8px; cursor:pointer;">
+      👉 Next: Active Directory Setup & Configuration
+    </button>
+  </a>
+</div>
+
+---
+
+
