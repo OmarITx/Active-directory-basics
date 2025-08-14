@@ -197,8 +197,7 @@ This is the **base environment** we’ll build upon in the next sections of the 
 
 ### 📌 In the next part of this lab, we will:
 
-- Install and configure **Active Directory Domain Services (AD DS)** on DC-1  
-- Promote DC-1 to a Domain Controller (installing roles, etc..)
+- Install and configure **Active Directory Domain Services
 - Join C-1 to the new domain  
 - Create **bulk user accounts** with PowerShell ISE  
 - Set up and test **Group Policy Objects (GPOs)**  
