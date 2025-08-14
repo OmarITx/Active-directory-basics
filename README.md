@@ -204,8 +204,13 @@ This is the **base environment** we’ll build upon in the next sections of the 
 
 ---
 
-💡 **Tip:**  
-You can keep this environment running for the next part, but remember that Azure charges for running VMs. If you’re taking a break, **stop** both VMs in the Azure portal to avoid consuming credits.
+> ⚠️💡 **IMPORTANT TIP – READ THIS!**
+
+> Keep this environment running for the next part **only if you’re continuing right away**.
+  
+> 💰 **Azure charges for running VMs** — even when idle!
+
+> If you’re taking a break, **STOP both VMs** in the Azure portal to avoid burning through your credits or money.
 
 
 
